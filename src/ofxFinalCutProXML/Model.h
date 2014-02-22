@@ -5,9 +5,6 @@
 OFX_FCPXML_BEGIN_NAMESPACE
 
 typedef float Rate;
-typedef int Frame;
-typedef float Second;
-
 typedef float Time;
 typedef float Duration;
 
